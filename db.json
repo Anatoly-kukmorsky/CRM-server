@@ -1,0 +1,22 @@
+{
+    "requests": [
+        {
+            "id": 1,
+            "name": "Вадим Барсуков",
+            "phone": "+7 (956) 34-50-990",
+            "email": "info.34@mail.ru",
+            "product": "course-html",
+            "status": "new",
+            "date": "24.07.2022"
+        },
+        {
+           "id": 2,
+            "name": "Алина Петрова",
+            "phone": "+7 (956) 45-67-834",
+            "email": "info.43@gmail.com",
+            "product": "course-js",
+            "status": "new",
+            "date": "24.07.2022" 
+        }
+    ]
+}
